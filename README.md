@@ -1,7 +1,7 @@
 # animal-trading-card-udacity
 ## A portfolio project as part of the Udacity front end development nanodegree program. This project is complete.
 
-## Udacity Project Animal Trading Card Task Instructions
+### Udacity Project Animal Trading Card Task Instructions
 Again, your job is to reproduce the styling you see in the design prototype (shown below), while customizing the card with your own animal image and text.
 
 ### 1. Look Over the Design Prototype
